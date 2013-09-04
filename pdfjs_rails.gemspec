@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = PdfjsRails::VERSION
   spec.authors       = ["shyam"]
   spec.email         = ["shyammohankanojia@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.description   = %q{PDFjs viewer for rails application.}
+  spec.summary       = %q{PDFjs viewer https://github.com/mozilla/pdf.js for rails application}
+  spec.homepage      = "https://github.com/shyammohankanojia/pdfjs_rails"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
