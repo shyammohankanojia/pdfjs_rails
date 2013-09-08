@@ -1,6 +1,6 @@
 # PdfjsRails
 
-This gem is to use PDFjs pdf viewer in the rails rails project.
+This gem is to use PDFjs pdf viewer in the rails project.
 Pdfjs is one of the best open source Pdf viewer from Mozila.
 https://github.com/mozilla/pdf.js/
 
