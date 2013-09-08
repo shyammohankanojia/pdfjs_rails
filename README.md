@@ -18,7 +18,15 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+	$ rails g pdfjs_rails:install
+
+	This will copy pdfjs files to your public dir.
+
+	To Display pdf files in your view use this iframe in your html page
+
+	<iframe src="/pdfjs/web/viewer.html?file=http://cdn.mozilla.net/pdfjs/helloworld.pdf" style="border: 0" width="50%" height="600" frameborder="0" scrolling="no"></iframe>
+
+	Note: "file=" in the src url is the refrence to the pdf.
 
 ## Contributing
 
