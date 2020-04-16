@@ -7,7 +7,7 @@ https://github.com/mozilla/pdf.js/
 Online Demo
 http://mozilla.github.io/pdf.js/web/viewer.html
 
-Demo Rails 4 Appliction 
+Demo Appliction 
 https://github.com/shyammohankanojia/pdfjs_viewer_demo
 
 ## Installation
@@ -32,7 +32,7 @@ Or install it yourself as:
 
 	To Display pdf files in your view use this iframe in your html page
 
-	<iframe src="/pdfjs/web/viewer.html?file=http://cdn.mozilla.net/pdfjs/helloworld.pdf" style="border: 0" width="50%" height="600" frameborder="0" scrolling="no"></iframe>
+	<iframe src="/pdfjs/web/viewer.html?file=https://codecrux.com/codecrux-portfolio.pdf" style="border: 0"  width="100%" height="700" frameborder="0" scrolling="no"></iframe>
 
 	Note: "file=" in the src url is the reference to the pdf.
 
