@@ -7,6 +7,11 @@ https://github.com/mozilla/pdf.js/
 Online Demo
 http://mozilla.github.io/pdf.js/web/viewer.html
 
+> UPDATE = NOW we can use our own PDF by passing to this URL as follows
+> 
+><iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://codecrux.com/codecrux-portfolio.pdf" style="border: 0"  width="100%" height="700" frameborder="0" scrolling="no"></iframe>
+> 
+
 Demo Appliction 
 https://github.com/shyammohankanojia/pdfjs_viewer_demo
 
